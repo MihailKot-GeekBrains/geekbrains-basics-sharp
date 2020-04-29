@@ -1,0 +1,6 @@
+C:\Users\Миша\Documents\Visual Studio 2013\Projects\GeekBrains\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+C:\Users\Миша\Documents\Visual Studio 2013\Projects\GeekBrains\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+C:\Users\Миша\Documents\Visual Studio 2013\Projects\GeekBrains\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+C:\Users\Миша\Documents\Visual Studio 2013\Projects\GeekBrains\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csprojResolveAssemblyReference.cache
+C:\Users\Миша\Documents\Visual Studio 2013\Projects\GeekBrains\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+C:\Users\Миша\Documents\Visual Studio 2013\Projects\GeekBrains\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
