@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <secondName>Петров</secondName>
+    <firstName>Пётр</firstName>
+    <univer>Университет 1</univer>
+    <fakult>ФИЗМАТ</fakult>
+    <department>Кафедра 1</department>
+    <age>18</age>
+    <course>1</course>
+    <group>10</group>
+    <city>Кафедра 1</city>
+  </Student>
+  <Student>
+    <secondName>Студент 1</secondName>
+    <firstName>Фамилия 1</firstName>
+    <univer>Университет 1</univer>
+    <fakult>ФИЗМАТ</fakult>
+    <department>Кафедра 1</department>
+    <age>19</age>
+    <course>2</course>
+    <group>11</group>
+    <city>Кафедра 1</city>
+  </Student>
+  <Student>
+    <secondName>Студент 2</secondName>
+    <firstName>Фамилия 2</firstName>
+    <univer>Университет 2</univer>
+    <fakult>ФИЗМАТ</fakult>
+    <department>Кафедра 1</department>
+    <age>20</age>
+    <course>3</course>
+    <group>12</group>
+    <city>Кафедра 1</city>
+  </Student>
+  <Student>
+    <secondName>Студент 3</secondName>
+    <firstName>Фамилия 3</firstName>
+    <univer>Университет 3</univer>
+    <fakult>ТЕХМЕХ</fakult>
+    <department>Кафедра 2</department>
+    <age>21</age>
+    <course>4</course>
+    <group>13</group>
+    <city>Кафедра 2</city>
+  </Student>
+  <Student>
+    <secondName>Студент 4</secondName>
+    <firstName>Фамилия 4</firstName>
+    <univer>Университет 4</univer>
+    <fakult>ТЕХМЕХ</fakult>
+    <department>Кафедра 2</department>
+    <age>22</age>
+    <course>3</course>
+    <group>14</group>
+    <city>Кафедра 2</city>
+  </Student>
+  <Student>
+    <secondName>Студент 5</secondName>
+    <firstName>Фамилия 5</firstName>
+    <univer>Университет 5</univer>
+    <fakult>ФИЗМАТ</fakult>
+    <department>Кафедра 1</department>
+    <age>23</age>
+    <course>6</course>
+    <group>15</group>
+    <city>Кафедра 1</city>
+  </Student>
+  <Student>
+    <secondName>Студент 6</secondName>
+    <firstName>Фамилия 6</firstName>
+    <univer>Университет 6</univer>
+    <fakult>ФИЗМАТ</fakult>
+    <department>Кафедра 1</department>
+    <age>17</age>
+    <course>1</course>
+    <group>10</group>
+    <city>Кафедра 1</city>
+  </Student>
+  <Student>
+    <secondName>Студент 7</secondName>
+    <firstName>Фамилия 7</firstName>
+    <univer>Университет 7</univer>
+    <fakult>ТЕХМЕХ</fakult>
+    <department>Кафедра 2</department>
+    <age>18</age>
+    <course>1</course>
+    <group>11</group>
+    <city>Кафедра 2</city>
+  </Student>
+  <Student>
+    <secondName>Студент 8</secondName>
+    <firstName>Фамилия 8</firstName>
+    <univer>Университет 8</univer>
+    <fakult>ХБФ</fakult>
+    <department>Кафедра 3</department>
+    <age>19</age>
+    <course>3</course>
+    <group>12</group>
+    <city>Кафедра 3</city>
+  </Student>
+  <Student>
+    <secondName>Студент 9</secondName>
+    <firstName>Фамилия 9</firstName>
+    <univer>Университет 9</univer>
+    <fakult>ХБФ</fakult>
+    <department>Кафедра 3</department>
+    <age>20</age>
+    <course>4</course>
+    <group>13</group>
+    <city>Кафедра 3</city>
+  </Student>
+  <Student>
+    <secondName>Студент 10</secondName>
+    <firstName>Фамилия 10</firstName>
+    <univer>Университет 10</univer>
+    <fakult>ХБФ</fakult>
+    <department>Кафедра 3</department>
+    <age>21</age>
+    <course>5</course>
+    <group>14</group>
+    <city>Кафедра 3</city>
+  </Student>
+</ArrayOfStudent>

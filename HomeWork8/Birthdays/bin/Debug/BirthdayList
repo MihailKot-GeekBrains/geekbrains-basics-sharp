@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfBirthday xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Birthday>
+    <FIO>Misha</FIO>
+    <Date>07.05.1897</Date>
+  </Birthday>
+</ArrayOfBirthday>
